@@ -1,0 +1,18 @@
+#clock
+{
+    position: relative;
+    height: 800px;
+}
+#time
+{
+    background-color: black;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    width: 400px;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+    padding: 10px;
+    border-radius: 10px;
+   }
